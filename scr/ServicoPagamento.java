@@ -1,3 +1,4 @@
+package scr;
 public class ServicoPagamento {
     public static boolean makePayment(){
         System.out.println("Processando pagamento...");

@@ -1,3 +1,4 @@
+package scr;
 public class Produto {
     public int productId;
     public String name;

@@ -1,4 +1,4 @@
-package scr;
+package src;
 public class PedidoFacade {
 
     public boolean processarPedido(Produto produto){

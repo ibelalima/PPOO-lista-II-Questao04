@@ -1,4 +1,4 @@
-package scr;
+package src;
 public class Produto {
     public int productId;
     public String name;
